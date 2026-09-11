@@ -1,0 +1,13 @@
+analysis_period,observed_years,first_year,last_year,rows,dataset
+AI expansion,4,2023,2026,101,ai_chip_market
+Smart automobile expansion,2,2020,2021,11,ai_chip_market
+Transition Year,1,2022,2022,8,ai_chip_market
+AI expansion,4,2023,2026,177,chip_prices
+Smart automobile expansion,8,2014,2021,192,chip_prices
+Transition Year,1,2022,2022,36,chip_prices
+AI expansion,4,2023,2026,152,fab_capacity
+Smart automobile expansion,11,2011,2021,130,fab_capacity
+Transition Year,1,2022,2022,31,fab_capacity
+AI expansion,4,2023,2026,23,export_controls
+Smart automobile expansion,4,2018,2021,7,export_controls
+Transition Year,1,2022,2022,4,export_controls

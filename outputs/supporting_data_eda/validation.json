@@ -1,0 +1,15 @@
+{
+  "raw_hashes_unchanged": true,
+  "original_numeric_values_preserved": true,
+  "duplicate_keys": 0,
+  "no_infinite_clean_values": true,
+  "clean_csv_roundtrip_shapes_valid": true,
+  "charts": 8,
+  "raw_sha256": {
+    "ai_chip_market.csv": "fa89daac4da42dc7d592be68e6ce719428be20b69f0d8a4715ebb2db4cff291c",
+    "chip_companies_financials.csv": "9a64b5e9e0d9e37ffa55da47f9d6e338b7fe5b775145d5ef0cab03e5515a0a91",
+    "chip_prices.csv": "45632d98a8482e8b718e744ff788dccd1613d5753a56ee75866f7cdd5784e880",
+    "export_controls.csv": "ddec3fa7823c675e39df6ce9d62b3a38eae2617a1e8ac8d81586a645e4f8f74b",
+    "fab_capacity.csv": "d065e3671097ee4153055aee829c36c86ce93513817c657b15e4483c3e951b9b"
+  }
+}

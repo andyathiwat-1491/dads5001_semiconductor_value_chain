@@ -1,0 +1,15 @@
+{
+  "seven_pngs": true,
+  "seven_pdfs": true,
+  "png_background_opaque_white": true,
+  "png_dpi_at_least_300": true,
+  "pdf_export_white_background": true,
+  "financial_years_through_2024": true,
+  "figure_13_explicit_review_exception": true,
+  "protected_sources_unchanged": true,
+  "unique_company_year_keys": true,
+  "validated_join_cardinality": true,
+  "yearly_revenue_shares_sum_100": true,
+  "no_infinite_chart_inputs": true,
+  "all_titles_axes_and_notes_present": true
+}

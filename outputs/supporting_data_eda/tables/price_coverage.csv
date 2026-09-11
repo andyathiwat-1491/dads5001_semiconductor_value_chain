@@ -1,0 +1,6 @@
+product,currency,unit,first_month,last_month,observed_months,expected_months_within_span,missing_months_within_span
+DRAM_DDR4_8Gb,USD,USD/chip,2014-01-01,2026-04-01,148,148,0
+HBM3_stack,USD,USD/stack,2022-01-01,2026-04-01,52,52,0
+NAND_64Gb_MLC,USD,USD/chip,2014-01-01,2026-04-01,148,148,0
+NVIDIA_B200,USD,USD/unit,2024-10-01,2026-04-01,19,19,0
+NVIDIA_H100,USD,USD/unit,2023-03-01,2026-04-01,38,38,0

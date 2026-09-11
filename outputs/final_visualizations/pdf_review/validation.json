@@ -1,0 +1,44 @@
+[
+  {
+    "pdf": "figure_08_financial_revenue_coverage.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure_09_value_chain_periods.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure_10_company_absolute_growth.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure_11_concentration_sensitivity.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure_12_estimated_ai_revenue_coverage.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure_13_product_price_index.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure_14_capacity_policy_context.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  }
+]

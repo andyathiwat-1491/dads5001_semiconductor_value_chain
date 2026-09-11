@@ -1,0 +1,12 @@
+vendor,_merge,rows
+AMD,both,6
+AWS,left_only,5
+Apple,left_only,3
+Cambricon,left_only,6
+Cerebras,left_only,3
+Google,left_only,7
+Groq,both,3
+Huawei,left_only,7
+NVIDIA,both,7
+SambaNova,both,4
+Tenstorrent,both,3

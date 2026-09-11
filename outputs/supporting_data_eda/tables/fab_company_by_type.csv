@@ -1,0 +1,203 @@
+year,company,capacity_category,fab_type,reported_monthly_wafer_capacity
+2011,TSMC,Fabrication,logic_mature,0
+2012,Intel,Fabrication,logic_mature,0
+2012,TSMC,Fabrication,logic_mature,68869
+2013,Intel,Fabrication,logic_mature,51425
+2013,TSMC,Fabrication,logic_mature,137349
+2013,UMC,Fabrication,logic_mature,0
+2014,GlobalFoundries,Fabrication,logic_mature,0
+2014,Intel,Fabrication,logic_mature,93744
+2014,TSMC,Fabrication,logic_mature,215975
+2014,UMC,Fabrication,logic_mature,32986
+2015,GlobalFoundries,Fabrication,logic_mature,9732
+2015,Intel,Fabrication,logic_mature,152668
+2015,NXP,Fabrication,logic_mature,0
+2015,Samsung,Fabrication,logic_mature,0
+2015,TSMC,Fabrication,logic_mature,215031
+2015,UMC,Fabrication,logic_mature,67981
+2016,GlobalFoundries,Fabrication,logic_mature,20467
+2016,Intel,Fabrication,logic_mature,198033
+2016,NXP,Fabrication,logic_mature,11620
+2016,SMIC,Fabrication,logic_mature,0
+2016,Samsung,Fabrication,logic_mature,51020
+2016,TSMC,Fabrication,logic_mature,258654
+2016,UMC,Fabrication,logic_mature,107257
+2017,GlobalFoundries,Fabrication,logic_mature,27320
+2017,Intel,Fabrication,logic_mature,217596
+2017,NXP,Fabrication,logic_mature,26356
+2017,SMIC,Fabrication,logic_mature,20178
+2017,STMicroelectronics,Fabrication,logic_mature,0
+2017,Samsung,Fabrication,logic_mature,102867
+2017,TSMC,Fabrication,logic_mature,323533
+2017,UMC,Fabrication,logic_mature,100910
+2018,GlobalFoundries,Fabrication,logic_mature,32927
+2018,Infineon,Fabrication,logic_mature,0
+2018,Intel,Fabrication,logic_mature,249366
+2018,Micron,Fabrication,memory_DRAM,0
+2018,NXP,Fabrication,logic_mature,39625
+2018,SMIC,Fabrication,logic_mature,40586
+2018,STMicroelectronics,Fabrication,logic_mature,20555
+2018,Samsung,Fabrication,logic_leading,0
+2018,Samsung,Fabrication,logic_mature,164423
+2018,Samsung Memory,Fabrication,memory_DRAM,0
+2018,TSMC,Fabrication,logic_leading,0
+2018,TSMC,Fabrication,logic_mature,390217
+2018,UMC,Fabrication,logic_mature,105503
+2019,GlobalFoundries,Fabrication,logic_mature,48172
+2019,Infineon,Fabrication,logic_mature,15735
+2019,Intel,Fabrication,logic_mature,248463
+2019,Micron,Fabrication,memory_DRAM,59542
+2019,NXP,Fabrication,logic_mature,39160
+2019,Renesas,Fabrication,logic_mature,0
+2019,SK Hynix,Fabrication,memory_DRAM,0
+2019,SMIC,Fabrication,logic_mature,64587
+2019,STMicroelectronics,Fabrication,logic_mature,41831
+2019,Samsung,Fabrication,logic_leading,32917
+2019,Samsung,Fabrication,logic_mature,148485
+2019,Samsung Memory,Fabrication,memory_DRAM,270562
+2019,TSMC,Fabrication,logic_leading,42633
+2019,TSMC,Fabrication,logic_mature,375944
+2019,UMC,Fabrication,logic_mature,123772
+2020,CXMT,Fabrication,memory_DRAM,0
+2020,GlobalFoundries,Fabrication,logic_mature,63489
+2020,Hua Hong,Fabrication,logic_mature,0
+2020,Infineon,Fabrication,logic_mature,34541
+2020,Intel,Fabrication,logic_leading,0
+2020,Intel,Fabrication,logic_mature,244353
+2020,Micron,Fabrication,memory_DRAM,132067
+2020,NXP,Fabrication,logic_mature,42217
+2020,Renesas,Fabrication,logic_mature,15723
+2020,SK Hynix,Fabrication,memory_DRAM,200909
+2020,SMIC,Fabrication,logic_mature,63793
+2020,STMicroelectronics,Fabrication,logic_mature,54297
+2020,Samsung,Fabrication,logic_leading,58889
+2020,Samsung,Fabrication,logic_mature,152847
+2020,Samsung Memory,Fabrication,memory_DRAM,599104
+2020,TSMC,Fabrication,logic_leading,92536
+2020,TSMC,Fabrication,logic_mature,383313
+2020,UMC,Fabrication,logic_mature,130591
+2020,YMTC,Fabrication,memory_NAND,0
+2021,CXMT,Fabrication,memory_DRAM,38786
+2021,GlobalFoundries,Fabrication,logic_mature,95023
+2021,Hua Hong,Fabrication,logic_mature,24334
+2021,Infineon,Fabrication,logic_mature,47131
+2021,Intel,Fabrication,logic_leading,27861
+2021,Intel,Fabrication,logic_mature,243075
+2021,Micron,Fabrication,memory_DRAM,292148
+2021,NXP,Fabrication,logic_mature,42470
+2021,Renesas,Fabrication,logic_mature,36855
+2021,SK Hynix,Fabrication,memory_DRAM,437348
+2021,SMIC,Fabrication,logic_mature,62801
+2021,STMicroelectronics,Fabrication,logic_mature,55159
+2021,Samsung,Fabrication,logic_leading,124163
+2021,Samsung,Fabrication,logic_mature,139265
+2021,Samsung Memory,Fabrication,memory_DRAM,863016
+2021,TSMC,Fabrication,logic_leading,182795
+2021,TSMC,Fabrication,logic_mature,397752
+2021,UMC,Fabrication,logic_mature,131513
+2021,YMTC,Fabrication,memory_NAND,67775
+2022,CXMT,Fabrication,memory_DRAM,79909
+2022,GlobalFoundries,Fabrication,logic_mature,100296
+2022,Hua Hong,Fabrication,logic_mature,47222
+2022,Infineon,Fabrication,logic_mature,48604
+2022,Infineon,Fabrication,logic_mature_300mm,0
+2022,Intel,Fabrication,logic_leading,54058
+2022,Intel,Fabrication,logic_mature,259435
+2022,Micron,Fabrication,memory_DRAM,408946
+2022,NXP,Fabrication,logic_mature,39660
+2022,Renesas,Fabrication,logic_mature,47658
+2022,SK Hynix,Fabrication,memory_DRAM,610815
+2022,SMIC,Fabrication,logic_mature,83375
+2022,STMicroelectronics,Fabrication,logic_mature,60634
+2022,Samsung,Fabrication,logic_leading,162984
+2022,Samsung,Fabrication,logic_mature,159199
+2022,Samsung Memory,Fabrication,memory_DRAM,787830
+2022,TSMC,Fabrication,logic_leading,242053
+2022,TSMC,Fabrication,logic_mature,390976
+2022,UMC,Fabrication,logic_mature,135526
+2022,YMTC,Fabrication,memory_NAND,138619
+2023,CXMT,Fabrication,memory_DRAM,116322
+2023,GlobalFoundries,Fabrication,logic_mature,122252
+2023,Hua Hong,Fabrication,logic_mature,69633
+2023,Infineon,Fabrication,logic_mature,48462
+2023,Infineon,Fabrication,logic_mature_300mm,24000
+2023,Intel,Fabrication,logic_leading,81664
+2023,Intel,Fabrication,logic_mature,258679
+2023,Micron,Fabrication,memory_DRAM,465284
+2023,NXP,Fabrication,logic_mature,35950
+2023,Renesas,Fabrication,logic_mature,51908
+2023,SK Hynix,Fabrication,memory_DRAM,629595
+2023,SMIC,Fabrication,logic_leading,0
+2023,SMIC,Fabrication,logic_mature,95223
+2023,STMicroelectronics,Fabrication,logic_mature,57893
+2023,Samsung,Fabrication,logic_leading,198935
+2023,Samsung,Fabrication,logic_mature,144403
+2023,Samsung Memory,Fabrication,memory_DRAM,776619
+2023,TSMC,Fabrication,logic_leading,352648
+2023,TSMC,Fabrication,logic_mature,373851
+2023,UMC,Fabrication,logic_mature,127673
+2023,YMTC,Fabrication,memory_NAND,192066
+2024,CXMT,Fabrication,memory_DRAM,113739
+2024,GlobalFoundries,Fabrication,logic_mature,115266
+2024,Hua Hong,Fabrication,logic_mature,74939
+2024,Infineon,Fabrication,logic_mature,53425
+2024,Infineon,Fabrication,logic_mature_300mm,53218
+2024,Intel,Fabrication,logic_leading,107670
+2024,Intel,Fabrication,logic_mature,233952
+2024,Micron,Fabrication,memory_DRAM,470754
+2024,NXP,Fabrication,logic_mature,41253
+2024,Renesas,Fabrication,logic_mature,45954
+2024,SK Hynix,Fabrication,memory_DRAM,578650
+2024,SMIC,Fabrication,logic_leading,5084
+2024,SMIC,Fabrication,logic_mature,87267
+2024,STMicroelectronics,Fabrication,logic_mature,64068
+2024,Samsung,Fabrication,logic_leading,236464
+2024,Samsung,Fabrication,logic_mature,145852
+2024,Samsung Memory,Fabrication,memory_DRAM,787083
+2024,TSMC,Fabrication,logic_leading,360707
+2024,TSMC,Fabrication,logic_mature,391853
+2024,UMC,Fabrication,logic_mature,126006
+2024,YMTC,Fabrication,memory_NAND,208976
+2025,CXMT,Fabrication,memory_DRAM,123791
+2025,GlobalFoundries,Fabrication,logic_mature,128449
+2025,Hua Hong,Fabrication,logic_mature,72635
+2025,Infineon,Fabrication,logic_mature,53374
+2025,Infineon,Fabrication,logic_mature_300mm,92822
+2025,Intel,Fabrication,logic_leading,191070
+2025,Intel,Fabrication,logic_mature,274356
+2025,Micron,Fabrication,memory_DRAM,545426
+2025,NXP,Fabrication,logic_mature,43182
+2025,Renesas,Fabrication,logic_mature,50113
+2025,SK Hynix,Fabrication,memory_DRAM,603672
+2025,SMIC,Fabrication,logic_leading,15045
+2025,SMIC,Fabrication,logic_mature,100002
+2025,STMicroelectronics,Fabrication,logic_mature,62014
+2025,Samsung,Fabrication,logic_leading,302281
+2025,Samsung,Fabrication,logic_mature,157324
+2025,Samsung Memory,Fabrication,memory_DRAM,974683
+2025,TSMC,Fabrication,logic_leading,486956
+2025,TSMC,Fabrication,logic_mature,434343
+2025,UMC,Fabrication,logic_mature,129923
+2025,YMTC,Fabrication,memory_NAND,196067
+2026,CXMT,Fabrication,memory_DRAM,124911
+2026,GlobalFoundries,Fabrication,logic_mature,121603
+2026,Hua Hong,Fabrication,logic_mature,70440
+2026,Infineon,Fabrication,logic_mature,54420
+2026,Infineon,Fabrication,logic_mature_300mm,88584
+2026,Intel,Fabrication,logic_leading,221461
+2026,Intel,Fabrication,logic_mature,271298
+2026,Micron,Fabrication,memory_DRAM,630671
+2026,NXP,Fabrication,logic_mature,44685
+2026,Renesas,Fabrication,logic_mature,59332
+2026,SK Hynix,Fabrication,memory_DRAM,675345
+2026,SK Hynix,Packaging,memory_HBM_packaging,69344
+2026,SMIC,Fabrication,logic_leading,15954
+2026,SMIC,Fabrication,logic_mature,109460
+2026,STMicroelectronics,Fabrication,logic_mature,59915
+2026,Samsung,Fabrication,logic_leading,341887
+2026,Samsung,Fabrication,logic_mature,152597
+2026,Samsung Memory,Fabrication,memory_DRAM,984755
+2026,TSMC,Fabrication,logic_leading,525654
+2026,TSMC,Fabrication,logic_mature,468316
+2026,UMC,Fabrication,logic_mature,136823
+2026,YMTC,Fabrication,memory_NAND,223641

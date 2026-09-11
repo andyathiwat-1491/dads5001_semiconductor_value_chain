@@ -1,0 +1,16 @@
+,value_chain_group,presentation_period,average_annual_revenue_usd_bn,observed_years,minimum_annual_entities,maximum_annual_entities,distinct_entities
+0,EDA Software,Smart automobile expansion,4.415,12,2,2,2
+1,EDA Software,Transition Year,8.34,1,2,2,2
+2,EDA Software,Generative AI expansion,10.059999999999999,2,2,2,2
+3,Equipment,Smart automobile expansion,44.4275,12,6,6,6
+4,Equipment,Transition Year,97.25999999999999,1,6,6,6
+5,Equipment,Generative AI expansion,103.28999999999999,2,6,6,6
+6,Fabless,Smart automobile expansion,65.39666666666666,12,7,12,12
+7,Fabless,Transition Year,154.83,1,12,12,12
+8,Fabless,Generative AI expansion,230.70499999999998,2,12,12,12
+9,Foundry,Smart automobile expansion,52.63916666666666,12,6,6,6
+10,Foundry,Transition Year,119.96000000000001,1,6,6,6
+11,Foundry,Generative AI expansion,118.39500000000001,2,6,6,6
+12,IDM,Smart automobile expansion,209.5858333333333,12,12,14,14
+13,IDM,Transition Year,317.07,1,14,14,14
+14,IDM,Generative AI expansion,278.98,2,14,14,14

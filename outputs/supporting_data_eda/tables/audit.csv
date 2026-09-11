@@ -1,0 +1,5 @@
+dataset,rows,original_columns,missing_original_cells,duplicate_rows,duplicate_keys,min_year,max_year,record_key
+ai_chip_market,120,11,0,0,0,2020,2026,year + vendor + chip_name
+chip_prices,405,6,0,0,0,2014,2026,year_month + product + currency + unit
+fab_capacity,313,7,0,0,0,2011,2026,year + company + country_iso3 + process_node_nm + fab_type
+export_controls,34,15,0,0,0,2018,2026,control_id

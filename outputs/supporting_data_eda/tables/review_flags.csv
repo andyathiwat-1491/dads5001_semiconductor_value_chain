@@ -1,0 +1,14 @@
+dataset,flag,rows
+ai_chip_market,before_launch_year_flag,0
+ai_chip_market,zero_asp_flag,7
+ai_chip_market,zero_memory_flag,3
+ai_chip_market,revenue_review_flag,0
+chip_prices,year_mismatch_flag,0
+chip_prices,consecutive_month_flag,400
+chip_prices,nonpositive_price_flag,0
+fab_capacity,zero_capacity_flag,38
+fab_capacity,before_start_year_flag,0
+fab_capacity,wafer_basis_unverified,313
+export_controls,date_components_review_flag,0
+export_controls,severity_definition_unverified,34
+export_controls,country_indicator_review_flag,0

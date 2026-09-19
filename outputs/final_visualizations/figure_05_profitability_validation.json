@@ -1,0 +1,34 @@
+{
+  "source_columns": [
+    "company_name",
+    "year",
+    "value_chain_group",
+    "revenue_usd_bn",
+    "operating_income_usd_bn",
+    "operating_margin_pct"
+  ],
+  "primary_margin": "operating_margin_pct",
+  "weighted_formula": "sum(operating_income_usd_bn) / sum(revenue_usd_bn) * 100",
+  "invalid_numeric_values_full_file": {
+    "year": 0,
+    "revenue_usd_bn": 0,
+    "operating_income_usd_bn": 0,
+    "operating_margin_pct": 0
+  },
+  "missing_required_numeric_2015_2024": {
+    "revenue_usd_bn": 0,
+    "operating_income_usd_bn": 0,
+    "operating_margin_pct": 0
+  },
+  "represented_companies": 40,
+  "company_year_rows": 372,
+  "zero_or_negative_revenue_exclusions": 8,
+  "excluded_observations": 8,
+  "duplicate_company_years": 0,
+  "negative_margins_retained": 0,
+  "extremes_retained": 11,
+  "extreme_rule": "Outside group pooled Q1 - 1.5 IQR or Q3 + 1.5 IQR; retained",
+  "margin_discrepancies_over_1_pp": 18,
+  "source_sha256": "4d1a1a1060ee75433368369e6011ac9ce292a1f9be74fa3dc7e37114f56203a3",
+  "source_unchanged": true
+}

@@ -1,0 +1,20 @@
+country_iso3,value_chain_group,revenue_usd_bn,companies
+CHN,Fabless,10.53,1
+CHN,Foundry,12.48,2
+CHN,IDM,13.370000000000001,2
+DEU,IDM,15.69,1
+EUR,IDM,15.85,1
+GBR,Fabless,0.06,1
+JPN,Equipment,20.56,2
+JPN,IDM,10.45,1
+KOR,Foundry,20.43,1
+KOR,IDM,143.83,2
+NLD,Equipment,38.79,1
+NLD,IDM,15.09,1
+TWN,Fabless,18.62,1
+TWN,Foundry,116.28,2
+USA,EDA Software,11.77,2
+USA,Equipment,61.92,3
+USA,Fabless,342.53,9
+USA,Foundry,7.24,1
+USA,IDM,132.55,6

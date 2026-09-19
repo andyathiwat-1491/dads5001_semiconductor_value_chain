@@ -1,0 +1,42 @@
+{
+  "data_csvs_unchanged": true,
+  "notebooks": [
+    {
+      "notebook": "01_data_audit.ipynb",
+      "syntax": "pass",
+      "execution": "pass"
+    },
+    {
+      "notebook": "02_data_preprocessing.ipynb",
+      "syntax": "pass",
+      "execution": "pass"
+    },
+    {
+      "notebook": "03_feature_engineering.ipynb",
+      "syntax": "pass",
+      "execution": "pass"
+    },
+    {
+      "notebook": "04_eda_financials.ipynb",
+      "syntax": "pass",
+      "execution": "pass"
+    },
+    {
+      "notebook": "05_visualization.ipynb",
+      "syntax": "pass",
+      "execution": "pass"
+    },
+    {
+      "notebook": "06_supporting_data_eda.ipynb",
+      "syntax": "pass",
+      "execution": "not rerun; existing outputs inspected",
+      "saved_errors": []
+    },
+    {
+      "notebook": "07_final_presentation_visualizations.ipynb",
+      "syntax": "pass",
+      "execution": "not rerun; existing outputs inspected",
+      "saved_errors": []
+    }
+  ]
+}

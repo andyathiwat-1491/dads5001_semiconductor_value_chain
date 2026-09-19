@@ -1,42 +1,60 @@
 [
   {
-    "pdf": "figure_08_financial_revenue_coverage.pdf",
+    "pdf": "figure10_supply_demand_mechanism.pdf",
     "one_page": true,
     "rendered_successfully": true,
     "opaque_white_background": true
   },
   {
-    "pdf": "figure_09_value_chain_periods.pdf",
+    "pdf": "figure11_value_chain_revenue_share.pdf",
     "one_page": true,
     "rendered_successfully": true,
     "opaque_white_background": true
   },
   {
-    "pdf": "figure_10_company_absolute_growth.pdf",
+    "pdf": "figure12_top3_revenue.pdf",
     "one_page": true,
     "rendered_successfully": true,
     "opaque_white_background": true
   },
   {
-    "pdf": "figure_11_concentration_sensitivity.pdf",
+    "pdf": "figure13_top3_revenue_2023.pdf",
     "one_page": true,
     "rendered_successfully": true,
     "opaque_white_background": true
   },
   {
-    "pdf": "figure_12_estimated_ai_revenue_coverage.pdf",
+    "pdf": "figure3_profitability_bar_chart.pdf",
     "one_page": true,
     "rendered_successfully": true,
     "opaque_white_background": true
   },
   {
-    "pdf": "figure_13_product_price_index.pdf",
+    "pdf": "figure4_financial_revenue_coverage.pdf",
     "one_page": true,
     "rendered_successfully": true,
     "opaque_white_background": true
   },
   {
-    "pdf": "figure_14_capacity_policy_context.pdf",
+    "pdf": "figure6_value_chain_revenue_decline.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure7_idm_segment_change.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure8_export_controls_test.pdf",
+    "one_page": true,
+    "rendered_successfully": true,
+    "opaque_white_background": true
+  },
+  {
+    "pdf": "figure9_dram_capacity_vs_price.pdf",
     "one_page": true,
     "rendered_successfully": true,
     "opaque_white_background": true

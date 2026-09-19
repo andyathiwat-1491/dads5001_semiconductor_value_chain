@@ -1,0 +1,4 @@
+product,baseline_month,baseline_price,unit
+DRAM_DDR4_8Gb,2022-01,3.93,USD/chip
+NAND_64Gb_MLC,2022-01,4.81,USD/chip
+HBM3_stack,2022-01,188.37,USD/stack

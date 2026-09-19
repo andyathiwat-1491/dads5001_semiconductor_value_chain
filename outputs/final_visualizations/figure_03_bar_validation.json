@@ -1,0 +1,26 @@
+{
+  "source_unchanged": true,
+  "source_sha256": "4d1a1a1060ee75433368369e6011ac9ce292a1f9be74fa3dc7e37114f56203a3",
+  "duplicate_company_years": 0,
+  "margin_field": "operating_margin_pct",
+  "existing_margin_used": true,
+  "invalid_numeric_conversions_full_file": {
+    "year": 0,
+    "revenue_usd_bn": 0,
+    "operating_income_usd_bn": 0,
+    "operating_margin_pct": 0
+  },
+  "missing_values_in_window": {
+    "revenue_usd_bn": 0,
+    "operating_income_usd_bn": 0,
+    "operating_margin_pct": 0
+  },
+  "nonpositive_revenue_flagged": 8,
+  "excluded_observations": 8,
+  "valid_observations": 404,
+  "negative_margins_retained": 0,
+  "extreme_observations_flagged_and_retained": 13,
+  "extreme_rule": "Pooled within-group 1.5-IQR fences",
+  "weighted_formula": "sum(operating_income_usd_bn) / sum(revenue_usd_bn) * 100",
+  "change_comparison": "2023-2025 period median minus 2022 period median, percentage points"
+}

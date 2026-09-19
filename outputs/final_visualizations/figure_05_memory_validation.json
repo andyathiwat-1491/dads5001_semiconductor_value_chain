@@ -1,0 +1,11 @@
+{
+  "source_sha256": "a961028877b7e0e1c20d6debedeb5ba436d88abd20c05906bc9ebfd59a730a04",
+  "source_unchanged": true,
+  "rows": 108,
+  "duplicates": 0,
+  "missing_prices": 0,
+  "missing_months_after_baseline": 0,
+  "all_series_start_at_100": true,
+  "all_baselines_january_2022": true,
+  "expected_annual_averages_match_to_cents": true
+}
